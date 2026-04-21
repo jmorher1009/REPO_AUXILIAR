@@ -1,0 +1,4 @@
+repository "PRACTICA_2D/PRACTICA_2D 2026-03-22_11-40-01@6872816353366@cloud"
+  path "/"
+    br "/main"
+    co "/main"
