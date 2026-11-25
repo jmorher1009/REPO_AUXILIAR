@@ -1,0 +1,17 @@
+LTspice 26.1.1 for Windows
+Circuit: Z:\home\pili\Escritorio\FUNDAMENTOS-DE-LA-ELECTRONICA\PRACTICAS\PRACTICA_3\C_interruptor.net
+Start Time: Wed Nov 25 11:39:44 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.163 seconds.
+Total iterations: 3622
+
+Files loaded:
+Z:\home\pili\Escritorio\FUNDAMENTOS-DE-LA-ELECTRONICA\PRACTICAS\PRACTICA_3\C_interruptor.net
+C:\users\pili\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\users\pili\AppData\Local\LTspice\lib\cmp\standard.bjt
+
